@@ -1,5 +1,5 @@
 # 19xx - M625 - DOC - US Sales Brochure pg 10.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -74,7 +74,7 @@ WBS
 
 ```json
 {
- "file": "Modules/POWER/M625/19xx - M625 - DOC - US Sales Brochure pg 10.jpg",
+ "file": "Modules/POWER/M625/MANUALS/19xx - M625 - DOC - US Sales Brochure pg 10.jpg",
  "sha256": "cdc43b581e260badf2fe4724f38fb2921e791034b0affbc18b0735c611b0a40a",
  "kind": "doc",
  "models": [

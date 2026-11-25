@@ -1,5 +1,5 @@
 # 1978 - M625 - DOC - WBS eng memo 5.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1978 (found in this ad: "September 3 , 1978")
@@ -74,7 +74,7 @@ DESICN AND MANUFACTUAE OF PROFESSIONAL AUDIO EQUIFMZNT
 
 ```json
 {
- "file": "Modules/POWER/M625/1978 - M625 - DOC - WBS eng memo 5.jpg",
+ "file": "Modules/POWER/M625/MANUALS/1978 - M625 - DOC - WBS eng memo 5.jpg",
  "sha256": "6f3b996241400c8061e16797c2bad76da738b42a659dc4770dcff5bc0f717e9c",
  "kind": "doc",
  "models": [

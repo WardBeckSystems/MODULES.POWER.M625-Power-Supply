@@ -1,5 +1,5 @@
 # 19xx - M625 - DOC - wbsps - promo - mf6 mounting frame - back.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -43,7 +43,7 @@ WBS
 
 ```json
 {
- "file": "Modules/POWER/M625/19xx - M625 - DOC - wbsps - promo - mf6 mounting frame - back.jpg",
+ "file": "Modules/POWER/M625/MECHANICAL/19xx - M625 - DOC - wbsps - promo - mf6 mounting frame - back.jpg",
  "sha256": "4c0f80db899d82e49de09e735fe609a028a69484d7d52339e778c2648d97651f",
  "kind": "doc",
  "models": [

@@ -1,5 +1,5 @@
 # 19xx - M625 - DOC - Ward Beck Systems MF6 b.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -45,7 +45,7 @@ WBS
 
 ```json
 {
- "file": "Modules/POWER/M625/19xx - M625 - DOC - Ward Beck Systems MF6 b.jpg",
+ "file": "Modules/POWER/M625/MANUALS/19xx - M625 - DOC - Ward Beck Systems MF6 b.jpg",
  "sha256": "be9c60fbd96cb6e56c23ffd7a21e6ff800ace2d6d9a2479fe9cf7aef652dd9e7",
  "kind": "doc",
  "models": [
