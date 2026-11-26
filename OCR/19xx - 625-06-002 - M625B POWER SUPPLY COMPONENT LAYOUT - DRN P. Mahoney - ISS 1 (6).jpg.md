@@ -32,7 +32,7 @@ Wiki page: [M625](../../../../PAGES/M625.md)
 - **Words (OCR):** 15 in 13 lines: 3i8 · PcB · 442 · (BLACK) · (RED) · Sw2 · WBS WARD-BECK SYSTEMS · POWER   SUPPLY · M6258 · 42 · COMPONENT LAYOUT · Isue
 - **Title block:** (359, 18)–(432, 33) mm: WBS WARD-BECK SYSTEMS · M6258
 
-Every curve, box, word and wire group: [19xx - 625-06-002 - M625B POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1 (6) (traced).json](../SCHEMATICS/19xx%20-%20625-06-002%20-%20M625B%20POWER%20SUPPLY%20COMPONENT%20LAYOUT%20-%20DRN%20P.%20Mahoney%20-%20ISS%201%20(6)%20(traced).json) (the CAD file: `19xx - 625-06-002 - M625B POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1 (6) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 625-06-002 - M625B POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1 (6) (traced).json](../SCHEMATICS/19xx%20-%20625-06-002%20-%20M625B%20POWER%20SUPPLY%20COMPONENT%20LAYOUT%20-%20DRN%20P.%20Mahoney%20-%20ISS%201%20%286%29%20%28traced%29.json) (the CAD file: `19xx - 625-06-002 - M625B POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1 (6) (traced).dxf`).
 
 ## Full text
 
