@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/POWER/M625/SCHEMATICS/19xx - 625-06-002 - M625B POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1 (2).jpg",
+ "version": 1,
+ "trace": "_traces/315791ed3ef1af3d.svg",
+ "sheet": {
+  "number": "B 625-06-002",
+  "title": "M625B / POWER SUPPLY / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1536, 1002],
+  "mm": [431.8, 281.7],
+  "mm_per_px": 0.28112
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.1, 0.0, 431.6, 281.7],
+ "outlines": {
+  "line": {"rings": 1341, "straight": {"n": 11072, "mm": 27198.3}, "curved": {"n": 1517, "mm": 2010.8}},
+  "text": {"rings": 87, "straight": {"n": 526, "mm": 493.0}, "curved": {"n": 148, "mm": 188.3}},
+  "tb": {"rings": 19, "straight": {"n": 133, "mm": 161.5}, "curved": {"n": 42, "mm": 49.7}}
+ },
+ "circles": [
+  {"c": [239.0, 103.8], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [293.4, 160.8], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [352.7, 90.7], "r": 1.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [379.2, 30.6, 385.4, 33.5], "w": 6.2, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [392.2, 30.4, 423.9, 33.5], "w": 31.8, "h": 3.1, "from": "ring", "in_title_block": true},
+  {"mm": [363.2, 21.4, 430.4, 30.1], "w": 67.2, "h": 8.7, "from": "ring", "words": ["WARD-BeCk SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [379.2, 8.4, 430.1, 21.4], "w": 50.9, "h": 12.9, "from": "ring", "words": ["46750", "POWER   SUFPLY", "COMPONENT   LAYOUT"]},
+  {"mm": [363.2, 15.2, 378.7, 18.0], "w": 15.5, "h": 2.8, "from": "ring"},
+  {"mm": [362.9, 8.7, 378.7, 11.5], "w": 15.7, "h": 2.8, "from": "ring"},
+  {"mm": [362.9, 2.2, 378.7, 8.4], "w": 15.7, "h": 6.2, "from": "ring"},
+  {"mm": [417.7, 2.0, 430.1, 8.2], "w": 12.4, "h": 6.3, "from": "ring"},
+  {"mm": [385.7, 2.0, 417.5, 8.2], "w": 31.8, "h": 6.2, "from": "ring", "words": ["625-06-007"]},
+  {"mm": [380.6, 3.7, 383.7, 6.5], "w": 3.1, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [55.4, 219.6, 62.7, 223.0], "text": "PcB"},
+   {"mm": [47.2, 220.4, 54.0, 222.6], "text": "1-117"},
+   {"mm": [321.9, 49.8, 339.9, 53.2], "text": "J2 (BLACK}"},
+   {"mm": [315.7, 42.4, 325.8, 45.9], "text": "(RED)"},
+   {"mm": [367.4, 23.3, 383.2, 27.7], "text": "WBS"},
+   {"mm": [387.1, 23.9, 428.1, 28.0], "text": "WARD-BeCk SYSTEMS"},
+   {"mm": [395.0, 12.7, 415.2, 16.7], "text": "POWER   SUFPLY"},
+   {"mm": [399.8, 17.4, 409.3, 19.6], "text": "46750"},
+   {"mm": [390.5, 9.3, 419.7, 12.7], "text": "COMPONENT   LAYOUT"},
+   {"mm": [392.7, 3.1, 411.3, 6.5], "text": "625-06-007"}
+  ]
+ },
+ "title_block": {"mm": [358.8, 17.7, 431.8, 33.5], "from": "title-block words (training set)", "text": ["WBS", "WARD-BeCk SYSTEMS", "46750"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 625-06-002, size B 432 × 282 mm, 1536 × 1002 px traced (0.281 mm/px)",
+  "- **Ink extent:** 1–432 mm across, 0–282 mm up",
+  "- **Outlines:** line 1,341 rings, 11,072 straight (27,198 mm) / 1,517 curved (2,011 mm); text 87 rings, 526 straight (493 mm) / 148 curved (188 mm); tb 19 rings, 133 straight (162 mm) / 42 curved (49.7 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.8 @ (239.0, 103.8), r 2.0 @ (293.4, 160.8), r 1.0 @ (352.7, 90.7)",
+  "- **Closed boxes:** 10 (3 in the title block); named: 46750 POWER   SUFPLY COMPONENT   LAYOUT; 625-06-007",
+  "- **Words (OCR):** 10 in 10 lines: PcB · 1-117 · J2 (BLACK} · (RED) · WBS · WARD-BeCk SYSTEMS · POWER   SUFPLY · 46750 · COMPONENT   LAYOUT · 625-06-007",
+  "- **Title block:** (359, 18)–(432, 34) mm: WBS · WARD-BeCk SYSTEMS · 46750"
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "drawing": "Modules/POWER/M625/SCHEMATICS/19xx - 625-06-002 - POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/485a558df6e2d1a3.svg",
+ "sheet": {
+  "number": "B 625-06-002",
+  "title": "POWER SUPPLY / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1455, 2000],
+  "mm": [314.1, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 2.8, 314.1, 430.1],
+ "outlines": {
+  "line": {"rings": 2636, "straight": {"n": 16439, "mm": 26151.6}, "curved": {"n": 2154, "mm": 2094.5}},
+  "text": {"rings": 211, "straight": {"n": 1390, "mm": 1336.7}, "curved": {"n": 431, "mm": 493.7}},
+  "tb": {"rings": 7, "straight": {"n": 93, "mm": 159.6}, "curved": {"n": 15, "mm": 13.7}}
+ },
+ "circles": [
+  {"c": [30.9, 174.2], "r": 4.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [109.6, 256.8], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [233.4, 68.2, 242.5, 72.5], "w": 9.1, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [242.9, 68.2, 252.0, 72.5], "w": 9.1, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [252.2, 68.0, 298.4, 72.5], "w": 46.2, "h": 4.5, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [298.8, 67.8, 307.7, 72.1], "w": 8.9, "h": 4.3, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [210.1, 54.8, 307.7, 67.6], "w": 97.6, "h": 12.7, "from": "ring", "words": ["WBS", "WARD-BECK SYSTEMS"], "in_title_block": true},
+  {
+   "mm": [233.4, 35.8, 307.4, 54.8],
+   "w": 74.1,
+   "h": 19.0,
+   "from": "ring",
+   "words": ["M6258", "SUPPLY", "POWER", "COMPONENT", "LAYOUT"],
+   "in_title_block": true
+  },
+  {"mm": [210.0, 45.8, 233.0, 50.1], "w": 22.9, "h": 4.3, "from": "ring", "words": ["ENG"], "in_title_block": true},
+  {"mm": [210.1, 41.0, 233.0, 45.3], "w": 22.9, "h": 4.4, "from": "ring", "words": ["CKD & R"], "in_title_block": true},
+  {"mm": [210.1, 36.5, 233.0, 40.6], "w": 22.9, "h": 4.1, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [210.1, 27.2, 233.0, 35.8], "w": 22.9, "h": 8.6, "from": "ring", "words": ["SCALE", "1:2"], "in_title_block": true},
+  {"mm": [233.4, 27.0, 242.2, 35.8], "w": 8.9, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [242.7, 26.8, 288.9, 35.8], "w": 46.2, "h": 9.1, "from": "ring", "words": ["625-06-002"], "in_title_block": true},
+  {"mm": [289.3, 26.6, 307.4, 35.7], "w": 18.1, "h": 9.1, "from": "ring", "words": ["ISSUE"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [172.9, 303.6, 179.8, 307.9], "text": "R2"},
+   {"mm": [11.4, 255.8, 25.7, 265.4], "text": "7100"},
+   {"mm": [221.1, 233.4, 228.0, 237.7], "text": "Rs"},
+   {"mm": [193.4, 153.1, 201.7, 157.4], "text": "Sw"},
+   {"mm": [184.8, 144.4, 193.9, 148.8], "text": "Ds1"},
+   {"mm": [136.7, 133.6, 150.5, 144.2], "text": "46358"},
+   {"mm": [131.5, 131.5, 138.4, 136.8], "text": "Nes"},
+   {"mm": [157.8, 95.9, 176.2, 100.2], "text": "(BLACK)"},
+   {"mm": [141.6, 85.5, 155.7, 90.3], "text": "(RED)"},
+   {"mm": [114.6, 67.1, 121.1, 71.5], "text": "F3"},
+   {"mm": [233.4, 68.2, 251.7, 72.1], "text": "ISSUF DATE"},
+   {"mm": [268.6, 68.2, 282.6, 72.1], "text": "REVISION"},
+   {"mm": [300.3, 68.2, 306.8, 71.6], "text": "APP"},
+   {"mm": [216.1, 58.3, 304.6, 63.8], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [88.7, 57.0, 99.5, 61.3], "text": "Sw 2"},
+   {"mm": [80.7, 49.9, 87.2, 54.2], "text": "F2"},
+   {"mm": [210.7, 51.0, 230.6, 54.3], "text": "DRN- PMae"},
+   {"mm": [263.6, 48.4, 277.6, 52.7], "text": "M6258"},
+   {"mm": [210.7, 46.2, 217.2, 49.6], "text": "ENG"},
+   {"mm": [256.1, 43.0, 270.1, 47.3], "text": "POWER"},
+   {"mm": [271.8, 43.0, 284.8, 47.8], "text": "SUPPLY"},
+   {"mm": [210.7, 40.8, 230.1, 45.1], "text": "CKD & R"},
+   {"mm": [250.2, 37.6, 291.2, 41.9], "text": "COMPONENT LAYOUT"},
+   {"mm": [210.7, 36.5, 217.2, 40.3], "text": "APP"},
+   {"mm": [216.8, 32.2, 226.5, 36.0], "text": "SCALE"},
+   {"mm": [253.5, 28.9, 279.4, 33.7], "text": "625-06-002"},
+   {"mm": [293.8, 31.5, 302.9, 35.4], "text": "ISSUE"},
+   {"mm": [218.9, 27.9, 224.8, 32.2], "text": "1:2"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [204.5, 22.9, 313.1, 80.7],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUF DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN- PMae",
+   "M6258",
+   "ENG",
+   "POWER",
+   "SUPPLY",
+   "CKD & R",
+   "COMPONENT LAYOUT",
+   "APP",
+   "SCALE",
+   "625-06-002",
+   "ISSUE",
+   "1:2"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 625-06-002, size B 314 × 432 mm, 1455 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 3–430 mm up",
+  "- **Outlines:** line 2,636 rings, 16,439 straight (26,152 mm) / 2,154 curved (2,094 mm); text 211 rings, 1,390 straight (1,337 mm) / 431 curved (494 mm); tb 7 rings, 93 straight (160 mm) / 15 curved (13.7 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 4.0 @ (30.9, 174.2), r 2.8 @ (109.6, 256.8)",
+  "- **Closed boxes:** 13 (13 in the title block)",
+  "- **Words (OCR):** 30 in 28 lines: R2 · 7100 · Rs · Sw · Ds1 · 46358 · Nes · (BLACK) · (RED) · F3 · ISSUF DATE · REVISION",
+  "- **Title block:** (204, 23)–(313, 81) mm: ISSUF DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN- PMae · M6258 · ENG · POWER · SUPPLY · CKD & R · COMPONENT LAYOUT · APP · SCALE · 625-06-002 · ISSUE · 1:2"
+ ]
+}

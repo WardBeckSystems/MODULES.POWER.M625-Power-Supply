@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/POWER/M625/SCHEMATICS/19xx - 625-06-002 - M625B POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1 (4).jpg",
+ "version": 1,
+ "trace": "_traces/52f6c78e3c8d7638.svg",
+ "sheet": {
+  "number": "B 625-06-002",
+  "title": "M625B / POWER SUPPLY / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1305],
+  "mm": [431.8, 281.7],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.2, 0.0, 431.6, 281.7],
+ "outlines": {
+  "line": {"rings": 2162, "straight": {"n": 16064, "mm": 28682.4}, "curved": {"n": 2096, "mm": 2168.1}},
+  "text": {"rings": 101, "straight": {"n": 642, "mm": 513.1}, "curved": {"n": 221, "mm": 237.6}},
+  "tb": {"rings": 22, "straight": {"n": 172, "mm": 171.2}, "curved": {"n": 50, "mm": 52.4}}
+ },
+ "circles": [{"c": [346.5, 84.9], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [379.1, 30.7, 385.4, 33.7], "w": 6.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [392.3, 30.4, 424.0, 33.5], "w": 31.7, "h": 3.1, "from": "ring", "in_title_block": true},
+  {"mm": [363.1, 21.4, 430.3, 30.2], "w": 67.1, "h": 8.9, "from": "ring", "words": ["WBS", "WAAD-BECK SYSTCMS"], "in_title_block": true},
+  {"mm": [379.1, 8.4, 430.3, 21.4], "w": 51.2, "h": 13.0, "from": "ring", "words": ["M6258", "POWER", "SUPPLY", "COMPONENT", "LAYOUT"]},
+  {"mm": [363.1, 15.1, 378.9, 18.1], "w": 15.8, "h": 3.0, "from": "ring"},
+  {"mm": [370.3, 11.9, 378.7, 14.7], "w": 8.4, "h": 2.8, "from": "ring", "words": ["42"]},
+  {"mm": [363.1, 8.6, 378.7, 11.7], "w": 15.5, "h": 3.0, "from": "ring"},
+  {"mm": [362.9, 2.4, 378.7, 8.4], "w": 15.8, "h": 6.0, "from": "ring"},
+  {"mm": [379.1, 2.2, 385.2, 8.2], "w": 6.0, "h": 6.0, "from": "ring"},
+  {"mm": [385.6, 2.2, 417.3, 8.2], "w": 31.7, "h": 6.0, "from": "ring", "words": ["625-06-002"]},
+  {"mm": [417.8, 1.9, 430.3, 8.0], "w": 12.5, "h": 6.0, "from": "ring"},
+  {"mm": [380.6, 3.7, 383.9, 6.5], "w": 3.2, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [48.4, 220.0, 54.2, 223.1], "text": "47"},
+   {"mm": [55.3, 219.4, 62.4, 223.2], "text": "PcB"},
+   {"mm": [326.9, 49.4, 340.3, 53.3], "text": "(BLACK)"},
+   {"mm": [316.1, 42.3, 325.8, 45.7], "text": "(RED)"},
+   {"mm": [278.9, 23.3, 286.5, 25.5], "text": "S2"},
+   {"mm": [367.2, 23.5, 428.3, 27.9], "text": "WBS WAAD-BECK SYSTCMS"},
+   {"mm": [394.9, 12.7, 414.7, 16.6], "text": "POWER SUPPLY"},
+   {"mm": [399.6, 16.4, 410.0, 20.2], "text": "M6258"},
+   {"mm": [369.0, 11.0, 377.0, 14.8], "text": "42"},
+   {"mm": [390.6, 8.9, 419.7, 12.9], "text": "COMPONENT LAYOUT"},
+   {"mm": [392.7, 3.0, 411.1, 6.9], "text": "625-06-002"}
+  ]
+ },
+ "title_block": {"mm": [358.7, 17.8, 431.8, 33.4], "from": "title-block words (training set)", "text": ["WBS WAAD-BECK SYSTCMS", "M6258"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 625-06-002, size B 432 × 282 mm, 2000 × 1305 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–432 mm across, 0–282 mm up",
+  "- **Outlines:** line 2,162 rings, 16,064 straight (28,682 mm) / 2,096 curved (2,168 mm); text 101 rings, 642 straight (513 mm) / 221 curved (238 mm); tb 22 rings, 172 straight (171 mm) / 50 curved (52.4 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.1 @ (346.5, 84.9)",
+  "- **Closed boxes:** 12 (3 in the title block); named: M6258 POWER SUPPLY COMPONENT LAYOUT; 42; 625-06-002",
+  "- **Words (OCR):** 14 in 11 lines: 47 · PcB · (BLACK) · (RED) · S2 · WBS WAAD-BECK SYSTCMS · POWER SUPPLY · M6258 · 42 · COMPONENT LAYOUT · 625-06-002",
+  "- **Title block:** (359, 18)–(432, 33) mm: WBS WAAD-BECK SYSTCMS · M6258"
+ ]
+}

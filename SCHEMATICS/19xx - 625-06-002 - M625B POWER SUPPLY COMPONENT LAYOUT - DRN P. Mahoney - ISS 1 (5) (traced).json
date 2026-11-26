@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/POWER/M625/SCHEMATICS/19xx - 625-06-002 - M625B POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1 (5).jpg",
+ "version": 1,
+ "trace": "_traces/5ec9b8cf97477437.svg",
+ "sheet": {
+  "number": "B 625-06-002",
+  "title": "M625B / POWER SUPPLY / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1305],
+  "mm": [431.8, 281.7],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.2, 0.0, 431.6, 281.7],
+ "outlines": {
+  "line": {"rings": 2330, "straight": {"n": 16204, "mm": 28792.1}, "curved": {"n": 2040, "mm": 2173.6}},
+  "text": {"rings": 111, "straight": {"n": 661, "mm": 540.3}, "curved": {"n": 235, "mm": 252.7}},
+  "tb": {"rings": 21, "straight": {"n": 187, "mm": 185.5}, "curved": {"n": 37, "mm": 38.5}}
+ },
+ "circles": [
+  {"c": [293.4, 160.8], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.6, 241.1], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [379.1, 30.7, 385.4, 33.7], "w": 6.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [385.6, 30.7, 391.9, 33.7], "w": 6.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [392.1, 30.4, 424.0, 33.5], "w": 32.0, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [363.1, 21.4, 430.3, 30.3], "w": 67.1, "h": 8.9, "from": "ring", "words": ["WBS", "WARD-BECK SYSTCMS"], "in_title_block": true},
+  {"mm": [379.1, 8.4, 430.3, 21.4], "w": 51.2, "h": 13.0, "from": "ring", "words": ["M6258", "POWER   SUPPLY", "COMPONENT", "LAYOUT"]},
+  {"mm": [363.1, 15.1, 378.7, 18.1], "w": 15.5, "h": 3.0, "from": "ring"},
+  {"mm": [362.9, 11.9, 378.7, 14.7], "w": 15.8, "h": 2.8, "from": "ring", "words": ["42"]},
+  {"mm": [362.9, 8.6, 378.7, 11.7], "w": 15.8, "h": 3.0, "from": "ring"},
+  {"mm": [362.9, 2.2, 378.7, 8.2], "w": 15.8, "h": 6.0, "from": "ring"},
+  {"mm": [379.1, 2.2, 385.2, 8.2], "w": 6.0, "h": 6.0, "from": "ring"},
+  {"mm": [385.6, 1.9, 417.3, 8.2], "w": 31.7, "h": 6.3, "from": "ring", "words": ["625-06-002"]},
+  {"mm": [417.8, 1.9, 430.3, 8.0], "w": 12.6, "h": 6.0, "from": "ring"},
+  {"mm": [380.6, 3.7, 383.9, 6.5], "w": 3.3, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [161.9, 262.3, 168.0, 264.5], "text": "3i8"},
+   {"mm": [46.6, 220.0, 54.2, 223.1], "text": "1-\"\"7"},
+   {"mm": [55.3, 219.4, 62.4, 223.2], "text": "PCB"},
+   {"mm": [326.9, 49.4, 340.3, 53.3], "text": "(BLACK)"},
+   {"mm": [311.8, 42.3, 325.8, 45.7], "text": "Ji (RED)"},
+   {"mm": [367.2, 23.5, 428.3, 27.9], "text": "WBS WARD-BECK SYSTCMS"},
+   {"mm": [394.9, 12.7, 414.7, 16.6], "text": "POWER   SUPPLY"},
+   {"mm": [399.6, 16.4, 410.0, 20.2], "text": "M6258"},
+   {"mm": [369.0, 11.0, 377.0, 14.8], "text": "42"},
+   {"mm": [390.6, 8.9, 419.7, 12.9], "text": "COMPONENT LAYOUT"},
+   {"mm": [392.7, 3.0, 411.1, 6.9], "text": "625-06-002"}
+  ]
+ },
+ "title_block": {"mm": [358.7, 17.8, 431.8, 33.4], "from": "title-block words (training set)", "text": ["WBS WARD-BECK SYSTCMS", "M6258"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 625-06-002, size B 432 × 282 mm, 2000 × 1305 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–432 mm across, 0–282 mm up",
+  "- **Outlines:** line 2,330 rings, 16,204 straight (28,792 mm) / 2,040 curved (2,174 mm); text 111 rings, 661 straight (540 mm) / 235 curved (253 mm); tb 21 rings, 187 straight (186 mm) / 37 curved (38.5 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.0 @ (293.4, 160.8), r 1.2 @ (86.6, 241.1)",
+  "- **Closed boxes:** 13 (4 in the title block); named: M6258 POWER   SUPPLY COMPONENT LAYOUT; 42; 625-06-002",
+  "- **Words (OCR):** 13 in 11 lines: 3i8 · 1-\"\"7 · PCB · (BLACK) · Ji (RED) · WBS WARD-BECK SYSTCMS · POWER   SUPPLY · M6258 · 42 · COMPONENT LAYOUT · 625-06-002",
+  "- **Title block:** (359, 18)–(432, 33) mm: WBS WARD-BECK SYSTCMS · M6258"
+ ]
+}
