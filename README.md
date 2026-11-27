@@ -13,6 +13,21 @@ Ward-Beck Systems M625, 1978|11. Wiki page: [M625 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 13 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [13 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M625 - DOC - wbsps - promo - mf6 mounting frame - back.jpg](MANUALS/19xx%20-%20M625%20-%20DOC%20-%20wbsps%20-%20promo%20-%20mf6%20mounting%20frame%20-%20back.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Finish** | Natural anodize with WBS green detachable rack trim plates Any combination of the above, with the provision that the total width does not exceed that often single modules: ACCOMMODATES Ten single modules, such as M600, M6OS, etc; each 1.ZW inches |
+| **Accessories** | MFR6 Frame receptacle (max.10) MF6-2 - Set of 3 cable brackets MF6-3 Rear Component Tray MF6-4 Rear Cover MFB6-1 Single Module Blank MFB6-2 Double Module Blank MFB6-4 Quadruple Module Blank |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
