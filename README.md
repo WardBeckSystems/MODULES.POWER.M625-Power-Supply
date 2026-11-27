@@ -1,11 +1,11 @@
-# M625 · Power
+# M625 Power Supply · Power
 
 Ward-Beck Systems M625, 1978|11. Wiki page: [M625 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M625.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 29 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 90 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
