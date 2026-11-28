@@ -1,5 +1,5 @@
 # 19xx - 625-06-002 - M625B POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1 (3).jpg
-Wiki page: [M625](../../../../PAGES/M625.md)
+Wiki page: [M625](../)
 
 
 - **Year:** unknown (title block (read by eye))

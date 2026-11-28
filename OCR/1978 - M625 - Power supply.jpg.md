@@ -1,5 +1,5 @@
 # 1978 - M625 - Power supply.jpg
-Wiki page: [M625](../../../../PAGES/M625.md)
+Wiki page: [M625](../)
 
 
 - **Year:** 1978 (module estimate (month))
